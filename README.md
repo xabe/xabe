@@ -8,10 +8,18 @@ My name is Chabir, I'm from spain and I'm a software engineer.
 
 * Java 11
 * Spring (Spring boot, AOP, etc)
+* Quarkus
+* Rest
+* Grpc
 * Microservices
+* Reactive
 * Kafka
 * TDD
+* BDD
+* DDD
 * Docker
+* Kubernetes
+* Openshift
 
 
 ## Contact
